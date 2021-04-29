@@ -14,20 +14,48 @@
 }
 
 .App-header {
-  background-color: #282c34;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
 }
 
 .App-link {
   color: #61dafb;
 }
-
+.list1, .email1{
+  color: black;
+  list-style-type: none;
+}
+.list1{
+  margin: 5% auto;
+}
+.list2{
+  margin: 0 auto;
+  display: block;
+  width: 800px;
+  margin-top: 3%;
+}
+.btn-primary{
+  margin-top: 1%;
+}
+table th{
+  width: 300px;
+}
+.teer{
+  width: 600px;
+}
+.teer td{
+  width: 300px;
+}
+.form-control{
+  width: 400px !important;
+}
+.btn-primary{
+  float: left;
+}
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);

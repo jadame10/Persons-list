@@ -1,0 +1,20 @@
+// console.log(i);
+ //for(let i = 0; i < idx.length-1; i++){
+ /* 
+  console.log(items.indexOf(items[i]));
+  //items.splice(items[i-1], items[i]);
+ //items.splice(items.indexOf(items[i]), 1);
+//var items = this.state.users;
+ const index = items.indexOf(items[i]);
+if (index-1 > -1) {
+  items.splice(index-1, 1);
+}else if(index === -1){
+  items.splice(index, 1);
+  }
+*/
+  //}
+  /*
+  this.setState({
+    items: items
+  });
+*/
